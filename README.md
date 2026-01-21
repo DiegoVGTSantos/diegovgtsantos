@@ -37,7 +37,6 @@ Fiz um bootcamp na Tripleten para aprofundar meus conhecimentos em ferramentas c
 <a href="https://www.selenium.dev/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
 </a>
-</a>
 
 </div>
 
