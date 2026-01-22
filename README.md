@@ -1,10 +1,14 @@
 ## E aí, tudo bem? 👋 Sou o Diego!
 
-Meu nome é Diego Vinicius Gomiero Tavares dos Santos (nome grande, né? Eu sei, rs). Sou natural de Ribeirão Preto/SP, e moro atualmente em São Paulo. Formado em Relações Internacionais desde 2015, vivi e experienciei muitas coisas até aqui, e, estou longe de parar.
+**`Quality Assurance Analyst`**
 
-Fiz um bootcamp na Tripleten para aprofundar meus conhecimentos em ferramentas como Jira, Postman, Figma e Excel, Sql. Combinando minhas habilidades em gastronomia com a análise de qualidade, encontrei uma abordagem única e meticulosa para garantir a excelência em produtos digitais. Cada projeto de teste foi uma oportunidade de aplicar meus conhecimentos em um ambiente prático, preparando-me para enfrentar desafios futuros com confiança e criatividade.
+Meu nome é Diego Vinicius Gomiero Tavares dos Santos (nome grande, né? Eu sei, rs). Sou natural de Ribeirão Preto/SP, e moro atualmente em São Paulo Capital. Formado em Relações Internacionais desde 2015, vivi e experienciei muitas coisas até aqui, e, estou longe de parar.
 
-### Tools & Languages
+
+
+Fiz um bootcamp na Tripleten para aprofundar meus conhecimentos em ferramentas como Jira, Postman, Figma e SQL. Combinando minhas habilidades de Experiência e Sucesso do cliente com a análise de qualidade, encontrei uma abordagem única e meticulosa para garantir a excelência. Cada projeto de teste foi uma oportunidade de aplicar meus conhecimentos em um ambiente prático, preparando-me para enfrentar desafios futuros com confiança e criatividade.
+
+### 🤖 Tools & Tech
 
 <img 
     align="left" 
@@ -20,7 +24,15 @@ Fiz um bootcamp na Tripleten para aprofundar meus conhecimentos em ferramentas c
     title="Postman"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Android Studio" 
+    title="Android Studio"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
 />
 <img 
     align="left" 
@@ -55,8 +67,8 @@ Fiz um bootcamp na Tripleten para aprofundar meus conhecimentos em ferramentas c
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-</div>
-
+<br/>
+<br/>
 
 
 ### Lets talk?
