@@ -82,7 +82,8 @@ E, claro, não estamos parando por aí. Esse processo de aprendizagem é (e semp
 
 
 ### Lets talk?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegosantos-cxqa/)
 [![E-mail](https://img.shields.io/badge/-diegov.tavares@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:diegov.tavares@gmail.com)](mailto:diegov.tavares@gmail.com)
-[![Telefone](https://img.shields.io/badge/-+55%2011%2099269--4515-007ACC?style=flat&logo=WhatsApp&logoColor=white)](tel:+5511992694515)
+[![Telefone](https://img.shields.io/badge/-+55%2011%2099269--4515-25D366?style=flat&logo=WhatsApp&logoColor=white)](tel:+5511992694515)
 
 Foco no aprendizado constante, esforço diário e talento em evolução.
